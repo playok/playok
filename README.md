@@ -51,3 +51,5 @@
 - 블로그 — [sarangsai.com](http://www.sarangsai.com)
 
 <sub>하이스코어는 매일 자동 갱신됩니다. 위 SVG는 전부 <code>scripts/</code>의 파이썬 생성기가 5×7 비트맵 폰트로 그립니다 — 외부 서비스에 의존하지 않습니다.</sub>
+
+<!-- profile readme -->

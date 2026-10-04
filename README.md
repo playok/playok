@@ -22,6 +22,7 @@
 | [devup](https://github.com/playok/devup) | 개발 도구 버전을 점검하고 갱신하는 윈도우 데스크톱 앱 | Rust |
 | [DevHome_Relocator](https://github.com/playok/DevHome_Relocator) | 개발 도구 캐시를 시스템 드라이브 밖으로 옮기는 GUI 도구 | Rust |
 | [synergy-hangul-fix](https://github.com/playok/synergy-hangul-fix) | Synergy/Deskflow 사용 시 한영 전환이 깨지는 문제 해결 | Rust |
+| [WindowsDiskUsageMap](https://github.com/playok/WindowsDiskUsageMap) | 폴더 크기를 트리맵으로 탐색하는 윈도우 디스크 사용량 분석기 | Rust |
 
 ### WORLD 3 — WEB & DATA
 
@@ -31,6 +32,7 @@
 | [ParquetDuckQuery](https://github.com/playok/ParquetDuckQuery) | DuckDB JDBC로 Parquet을 조회하는 도구 | HTML |
 | [packetDup](https://github.com/playok/packetDup) | 트래픽을 복제해 흘려보내는 패킷 프록시 | HTML |
 | [kr-supercharger-timeline](https://github.com/playok/kr-supercharger-timeline) | 국내 슈퍼차저 설치 이력 타임라인 | HTML |
+| [laftel-timer](https://github.com/playok/laftel-timer) | 라프텔 재생 시간을 오버레이와 OBS용 팝업으로 표시하는 북마클릿 | JavaScript |
 
 ### WORLD 4 — AI & SIGNAL
 
